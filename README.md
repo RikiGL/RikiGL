@@ -1,7 +1,6 @@
-<h1 align="center">Hola 👋  soy Riki/ RikiGLDev ✨ </h1> 
+<h1 align="center">Hola 👋  soy Riki ✨ </h1> 
 
 <p align="left">
-
 
 <a href = "rikiguallichico6@outlook.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@RikiGL"  /></a>
   </p>
@@ -10,15 +9,13 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 INGENIERO EN INFORMÁTICA
+🎒 ESTUDIANTE UNIVERSITARIO
 
-🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
+💻 INGENIERIA EN SISTEMAS 
 
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
+📝 Roles: Programador, Manejo de Redes, Manejo de Bases de Datos, Experoto en Probabilidad y Estadistica Basica... y en un futuro quién sabe 
 
-📝 roles en el ámbito: desarrollador... líder... arquitecto... cofundador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
-
-📫 Contacto: **unsimpledev@gmail.com**
+📫 Contacto: **rikiguallichico6@outlook.com**
 <!--Intro end-->
   </p>
 <br>
