@@ -29,11 +29,11 @@
 </p>
 <br>
 <!-------------------------->
-<div id="proyectos">
 <h2>Algunos proyectos👨🏻‍💻</h2>
 
 <table align="left">
 <tr border="none">
+  <!-- Primer Proyecto -->
   <td width="25%" align="center">
     <p align="center">
      <a href="https://github.com/xaviercarpio13/Banco-del-buho" title="Ir al Proyecto">
@@ -44,25 +44,24 @@
         <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@xaviercarpio13" /></a>
     </p>       
   </td>
+
+  <!-- Segundo Proyecto -->
+  <td width="25%" align="center">
+    <p align="center">
+     <a href="https://github.com/Mix-agames12/2024A_GR1CC_GR1" title="Ir al Proyecto">
+        <img align="center" width=100% src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" /></a>
+    </p>
+    <p align="center">
+      <a href="https://github.com/Mix-agames12/2024A_GR1CC_GR1" target="blank">
+        <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@Mix-agames12" /></a>
+    </p>       
+  </td>
 </tr>
 </table>
 
 
-<!------------------------->
-<div id="apoyo">
-<h2>Si quieres apoyarme 😻</h2>
-  <p align="left">
- <a href='https://cafecito.app/unsimpledev' rel='noopener' target='_blank'><img srcset='https://cdn.cafecito.app/imgs/buttons/button_1.png 1x, https://cdn.cafecito.app/imgs/buttons/button_1_2x.png 2x, https://cdn.cafecito.app/imgs/buttons/button_1_3.75x.png 3.75x' src='https://cdn.cafecito.app/imgs/buttons/button_1.png' alt='Invitame un café en cafecito.app' align="left" height="50" width="230"/></a>
-    
-<a href='https://matecito.co/unsimpledev' rel='noopener' target='_blank'><img srcset='https://www.matecito.co/public/button_11.png 1x, https://www.matecito.co/public/button_11_2x.png 2x, https://www.matecito.co/public/button_11_3.75x.png 3.75x' src='https://www.matecito.co/public/button_11.png' alt='Convidame un Matecito' align="left" height="50" width="240" /></a>
 
-    
-    
-<a href="https://ko-fi.com/unsimpledev"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="unsimpledev" /></a>
-  </p>
-</div>
-  <br>
-<br><br>
+<!------------------------->
 
 <h2>GitHub :octocat:</h2>
 <!--- stats & Trophy (start) -->
