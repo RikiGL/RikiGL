@@ -9,11 +9,11 @@
 <!--Intro start-->
 
 <p align="left">
-🎒 ESTUDIANTE UNIVERSITARIO
+🎒 Estudiante Universitario
 
-💻 INGENIERIA EN SISTEMAS 
+💻 Ingenieria en Computación
 
-📝 Roles: Programador, Manejo de Redes, Manejo de Bases de Datos, Experoto en Probabilidad y Estadistica Basica... y en un futuro quién sabe 
+📝 Roles: Programador, Manejo de Redes, Manejo de Bases de Datos, Experto en Probabilidad y Estadistica Basica... y en un futuro quién sabe 
 
 📫 Contacto: **rikiguallichico6@outlook.com**
 <!--Intro end-->
