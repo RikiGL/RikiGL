@@ -50,7 +50,7 @@
     <!-- Segundo Proyecto -->
     <td width="25%" align="center">
       <p align="center">
-        <a href="https://github.com/xaviercarpio13/Banco-del-buho" title="Ir al Proyecto">
+        <a href="https://github.com/Mix-agames12/2024A_GR1CC_GR1" title="Ir al Proyecto">
           <img align="center" width=100% src="https://via.placeholder.com/350x150?text=Banco+del+Buho" alt="Banco del Buho" /></a>
       </p>
       <p align="center">
