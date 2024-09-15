@@ -44,20 +44,22 @@
           <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@xaviercarpio13" /></a>
       </p>
     </td>
-
+    
+<table align="left">
+  <tr border="none">
     <!-- Segundo Proyecto -->
     <td width="25%" align="center">
       <p align="center">
-        <a href="https://github.com/Mix-agames12/2024A_GR1CC_GR1" title="Ir al Proyecto">
-          <img align="center" width=100% src="https://via.placeholder.com/350x150?text=Proyecto+GR1CC" alt="Proyecto GR1CC" /></a>
+        <a href="https://github.com/xaviercarpio13/Banco-del-buho" title="Ir al Proyecto">
+          <img align="center" width=100% src="https://via.placeholder.com/350x150?text=Banco+del+Buho" alt="Banco del Buho" /></a>
       </p>
       <p align="center">
-        <a href="https://github.com/Mix-agames12/2024A_GR1CC_GR1" target="blank">
-          <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@Mix-agames12" /></a>
+        <a href="https://github.com/xaviercarpio13/Banco-del-buho" target="blank">
+          <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@xaviercarpio13" /></a>
       </p>
     </td>
-  </tr>
-</table>
+    
+ 
 
 
 
