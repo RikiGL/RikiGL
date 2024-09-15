@@ -20,15 +20,6 @@
   </p>
 <br>
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
-<!--tech stack icons-->
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,py,mysql,docker,vscode,bash,linux,&perline=12" />
-  </a>
-</p>
-<br>
-<!-------------------------->
 <h2>Algunos proyectos👨🏻‍💻</h2>
 
 <table align="left">
@@ -58,6 +49,9 @@
           <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@xaviercarpio13" /></a>
       </p>
     </td>
+
+
+
     
  
 
