@@ -5,7 +5,11 @@
 <a href = "rikiguallichico6@outlook.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@RikiGL"  /></a>
   </p>
 <br>
-<h2>Sobre mi 😃</h2>
+
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<br><br>
 <!--Intro start-->
 
 <p align="left">
