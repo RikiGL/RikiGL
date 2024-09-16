@@ -8,7 +8,6 @@
 <br><br>
 <!--Intro start-->
 <!--<p align="left">-->
-
 🎒 Estudiante de la [Escuela Politécnica Nacional](https://www.epn.edu.ec/).
 
 💻 Ingenieria en Computación.
