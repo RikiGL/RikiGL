@@ -63,12 +63,6 @@
   </tr>
 </table>
 
-
-    
- 
-
-
-
 <!------------------------->
 
 <h2>Mis estadisticas de GitHub ⚙️</h2>
