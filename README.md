@@ -1,12 +1,8 @@
 <h1 align="center">Hola 👋,  soy Riki </h1> 
-
-<p align="left">
-
-<a href = "rikiguallichico6@outlook.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@RikiGL"  /></a>
   </p>
 <br>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi
+## Sobre mi <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
@@ -15,9 +11,9 @@
 
 🎒 Estudiante de la [Escuela Politécnica Nacional](https://www.epn.edu.ec/).
 
-💻 Ingenieria en Computación
+💻 Ingenieria en Computación.
 
-📝 Roles: Programador, Manejo de Redes, Manejo de Bases de Datos, Experto en Probabilidad y Estadistica Basica... y en un futuro quién sabe 
+📝 Roles: Programador, Manejo de Redes, Manejo de Bases de Datos, Experto en Probabilidad y Estadistica Basica... y en un futuro quién sabe.
 
 📫 Contacto: **rikiguallichico6@outlook.com**
 <!--Intro end-->
