@@ -11,9 +11,9 @@
 
 <br><br>
 <!--Intro start-->
+<!--<p align="left">-->
 
-<p align="left">
-🎒 Estudiante Universitario
+🎒 Estudiante de la [Escuela Politécnica Nacional](https://www.epn.edu.ec/).
 
 💻 Ingenieria en Computación
 
