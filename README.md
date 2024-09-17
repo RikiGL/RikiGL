@@ -70,18 +70,17 @@
 <br>
 
 <!-- Top Languages Card -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RikiGL&show_icons=true&theme=dark&locale=en&layout=compact" alt="RikiGL" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RikiGL&show_icons=true&theme=dark&locale=en&layout=compact&v=2" alt="RikiGL" /></p>
 
 <br><br><br><br><br><br>
 
 <!-- GitHub Stats Card -->
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=RikiGL&show_icons=true&theme=dark&locale=en" alt="RikiGL" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=RikiGL&show_icons=true&theme=dark&locale=en&v=2" alt="RikiGL" /></p>
 
 <br><br><br><br><br><br><br><br><br><br>
 
 <!-- GitHub Streak Stats -->
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=RikiGL&theme=dark" alt="RikiGL" /></p>
-
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=RikiGL&theme=dark&v=2" alt="RikiGL" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 
 
