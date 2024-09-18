@@ -70,7 +70,7 @@
 <br>
 
 <!-- Top Languages Card -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RikiGL&show_icons=true&theme=dark&locale=en&layout=compact&v=3" alt="RikiGL" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RikiGL&show_icons=true&theme=dark&locale=en&layout=compact&v=4" alt="RikiGL" /></p>
 
 <br><br><br><br><br><br>
 
