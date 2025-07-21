@@ -1,96 +1,71 @@
-<h1 align="center">Hola 👋,  soy Riki </h1> 
-  </p>
-<br>
+<h1 align="center">Hola 👋, soy Riki</h1>
 
-## Sobre mi <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture>
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<p align="center">
+  🎒 Estudiante de la <a href="https://www.epn.edu.ec/">Escuela Politécnica Nacional</a><br>
+  💻 Ingeniería en Computación<br>
+  📝 Roles: Programador, redes, bases de datos, experto en probabilidad y estadística básica... y en un futuro, quién sabe.<br>
+  📫 Contacto: <strong>rikiguallichico6@outlook.com</strong>
+</p>
 
-<br><br>
-<!--Intro start-->
-<!--<p align="left">-->
-🎒 Estudiante de la [Escuela Politécnica Nacional](https://www.epn.edu.ec/).
+---
 
-💻 Ingenieria en Computación.
+## Sobre mí <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px">
 
-📝 Roles: Programador, Manejo de Redes, Manejo de Bases de Datos, Experto en Probabilidad y Estadistica Basica... y en un futuro quién sabe.
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
 
-📫 Contacto: **rikiguallichico6@outlook.com**
-<!--Intro end-->
-  </p>
-<br>
+---
 
-<h2 >Tecnologías conocidas 🛠</h2>
-<!--tech stack icons-->
+## 🛠 Tecnologías conocidas
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,py,postgres,github,docker,vscode,bash,linux&perline=12" />
   </a>
 </p>
-<br>
-<!-------------------------->
 
+---
 
+## 💡 Algunos proyectos
 
+Aquí te dejo algunos proyectos donde he participado activamente:
 
-<h2>Algunos proyectos 💡</h2>
+- 🔐 [Banco del Búho](https://github.com/xaviercarpio13/Banco-del-buho): Sistema bancario educativo colaborativo desarrollado en grupo.
+- 🎮 [Proyecto Videojuego](https://github.com/Mix-agames12/2024A_GR1CC_GR1): Videojuego 2D con elementos interactivos y lógica de juego en C# y Unity.
 
+> *(Actualmente se muestran como enlaces; próximamente agregaré imágenes reales de los proyectos.)*
 
-<table align="center" border="0" width="100%" cellspacing="10">
-  
-  <tr>
-    <!-- Primer Proyecto -->
-    <td width="50%" align="center">
-      <p align="center">
-        <a href="https://github.com/xaviercarpio13/Banco-del-buho" title="Ir al Proyecto">
-          <img align="center" width="100%" src="https://via.placeholder.com/350x150?text=Banco+del+Buho" alt="Banco del Buho" />
-        </a>
-      </p>
-    </td>
-  </tr>
+---
 
-</table>
+## ⚙️ Mis estadísticas de GitHub
 
-<table align="center" border="0" width="100%" cellspacing="10">
-  <tr>
-    <!-- Segundo Proyecto -->
-    <td width="50%" align="center">
-      <p align="center">
-        <a href="https://github.com/Mix-agames12/2024A_GR1CC_GR1" title="Ir al Proyecto">
-          <img align="center" width="100%" src="https://via.placeholder.com/350x150?text=Proyecto+Videojuego" alt="Proyecto Videojuego" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<!------------------------->
-
-<h2>Mis estadisticas de GitHub ⚙️</h2>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
-<br>
 
-<!-- Top Languages Card -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RikiGL&show_icons=true&theme=dark&locale=en&layout=compact&v=5" alt="RikiGL" /></p>
+<!-- Top Languages -->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RikiGL&show_icons=true&theme=dark&locale=en&layout=compact&v=2" alt="Top Languages" />
+</p>
 
 <br><br><br><br><br><br>
 
-<!-- GitHub Stats Card -->
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=RikiGL&show_icons=true&theme=dark&locale=en&v=2" alt="RikiGL" /></p>
+<!-- GitHub Stats -->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=RikiGL&show_icons=true&theme=dark&locale=en&v=2" alt="GitHub Stats" />
+</p>
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 
-<!-- GitHub Streak Stats -->
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=RikiGL&theme=dark&v=2" alt="RikiGL" /></p>
-<br><br><br><br><br><br><br><br><br><br>
+<!-- GitHub Streak -->
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RikiGL&theme=dark&v=2" alt="GitHub Streak" />
+</p>
 
+<br><br><br><br><br><br><br><br>
 
-------
+---
 
-
-[RikiGL](https://github.com/RikiGL)
-
-Last Edited on: 16/09/2024
-
+<p align="center">
+  <em>Última edición:</em> 16/09/2024<br>
+  <a href="https://github.com/RikiGL">RikiGL</a>
+</p>
 
 <hr width="60%">
-
