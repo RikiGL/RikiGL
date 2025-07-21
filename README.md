@@ -28,7 +28,8 @@ Soy una persona curiosa, apasionada por la tecnología y siempre en busca de apr
 ## 💡 Algunos proyectos
 
 - 🔐 [Banco del Búho](https://github.com/xaviercarpio13/Banco-del-buho): Sistema bancario educativo colaborativo desarrollado en grupo.
-- 🎮 [Proyecto Videojuego](https://github.com/Mix-agames12/2024A_GR1CC_GR1): Videojuego 2D con lógica en C# y Unity.
+- 🎮 [Proyecto Videojuego](https://github.com/Mix-agames12/2024A_GR1CC_GR1): Videojuego de simulacion con OpenGL.
+- 🍽️ [Gestión de Restaurante](https://github.com/Bidobelemti/aplicacionesweb-project): Proyecto colaborativo con registro, inicio de sesión, visualización de menú, gestión de camareros, reservas y pedidos.
 
 ---
 
