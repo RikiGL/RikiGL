@@ -30,8 +30,6 @@ Soy una persona curiosa, apasionada por la tecnología y siempre en busca de apr
 - 🔐 [Banco del Búho](https://github.com/xaviercarpio13/Banco-del-buho): Sistema bancario educativo colaborativo desarrollado en grupo.
 - 🎮 [Proyecto Videojuego](https://github.com/Mix-agames12/2024A_GR1CC_GR1): Videojuego 2D con lógica en C# y Unity.
 
-> *(Actualmente se muestran como enlaces. ¡Pronto añadiré capturas!)*
-
 ---
 
 ## ⚙️ Estadísticas de GitHub
@@ -53,5 +51,5 @@ Soy una persona curiosa, apasionada por la tecnología y siempre en busca de apr
 ---
 
 <p align="center">
-  <em>Última edición:</em> 16/09/2024 · <a href="https://github.com/RikiGL">RikiGL</a>
+  <em>Última edición:</em> 21/07/2025 · <a href="https://github.com/RikiGL">RikiGL</a>
 </p>
