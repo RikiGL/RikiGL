@@ -25,11 +25,32 @@ Soy una persona curiosa, apasionada por la tecnología y siempre en busca de apr
 
 ---
 
-## 💡 Algunos proyectos
+## 🚀 Proyectos destacados
 
-- 🔐 [Banco del Búho](https://github.com/xaviercarpio13/Banco-del-buho): Sistema bancario educativo colaborativo desarrollado en grupo.
-- 🎮 [Proyecto Videojuego](https://github.com/Mix-agames12/2024A_GR1CC_GR1): Videojuego de simulacion con OpenGL.
-- 🍽️ [Gestión de Restaurante](https://github.com/Bidobelemti/aplicacionesweb-project): Proyecto colaborativo con registro, inicio de sesión, visualización de menú, gestión de camareros, reservas y pedidos.
+- 🛒 [Tienda Virtual MERN](https://github.com/RikiGL/tienda-virtual)  
+  Proyecto propio desarrollado como Scrum Master. Aplicación completa con:
+  - Registro con correo tradicional y Google
+  - Inicio de sesión seguro
+  - Recuperación de contraseña
+  - Selección de dirección con Google Maps
+  - Catálogo e interfaz de productos
+  - Carrito de compras y generación de nota de pago
+  - Envío automático de nota por correo
+  - Pago integrado con PayPal
+
+---
+
+## 💡 Otros proyectos
+
+- 🔐 [Banco del Búho](https://github.com/xaviercarpio13/Banco-del-buho): Sistema bancario educativo colaborativo desarrollado en grupo.  
+  *(Interfaz con Java y JFrame)*
+
+- 🎮 [Proyecto Videojuego](https://github.com/Mix-agames12/2024A_GR1CC_GR1): Simulación planetaria tipo 3D.  
+  *(Gráficos y lógica implementados en C++ usando OpenGL)*
+
+- 🍽️ [Gestión de Restaurante](https://github.com/Bidobelemti/aplicacionesweb-project): Proyecto colaborativo con registro, inicio de sesión, visualización de menú y camareros, reservas y pedidos.  
+  *(Aplicación web desarrollada en Python con Django)*
+
 
 ---
 
